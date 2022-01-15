@@ -1,1 +1,1 @@
-print("Hello world! My favorite movie is Rush Hour 3")
+print("Hello world! My favorite movie is RushHour3")
